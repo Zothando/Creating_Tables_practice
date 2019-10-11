@@ -1,5 +1,6 @@
 # Creating_Tables_practice
-SQL Language
+# SQL Language
+
 CREATE TABLE Georeferenced_Records(
 	QDS varchar(6),
 	Locality_description varchar,
